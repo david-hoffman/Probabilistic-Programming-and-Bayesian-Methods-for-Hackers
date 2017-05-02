@@ -1,11 +1,8 @@
-#[Bayesian Methods for Hackers](http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/)
+# [Bayesian Methods for Hackers](http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/)
 #### *Using Python and PyMC*
 
 
 The Bayesian method is the natural approach to inference, yet it is hidden from readers behind chapters of slow, mathematical analysis. The typical text on Bayesian inference involves two to three chapters on probability theory, then enters what Bayesian inference is. Unfortunately, due to mathematical intractability of most Bayesian models, the reader is only shown simple, artificial examples. This can leave the user with a *so-what* feeling about Bayesian inference. In fact, this was the author's own prior opinion.
-
-
-<div style="float: right; margin-left: 30px;"><img title="created by Stef Gibson"style="float: right;margin-left: 30px;" src="http://i.imgur.com/6DKYbPb.png?1" align=right height = 350 /></div>
 
 After some recent success of Bayesian methods in machine-learning competitions, I decided to investigate the subject again. Even with my mathematical background, it took me three straight-days of reading examples and trying to put the pieces together to understand the methods. There was simply not enough literature bridging theory to practice. The problem with my misunderstanding was the disconnect between Bayesian mathematics and probabilistic programming. That being said, I suffered then so the reader would not have to now. This book attempts to bridge the gap.
 
@@ -20,7 +17,7 @@ PyMC does have dependencies to run, namely NumPy and (optionally) SciPy. To not 
 
 Printed Version by Addison-Wesley
 ------
-<div style="float: right; margin-left: 30px;"><img title="created by Stef Gibson"style="float: right;margin-left: 30px;" src="http://www-fp.pearsonhighered.com/assets/hip/images/bigcovers/0133902838.jpg" align=right height = 200 /></div>
+<div style="float: right; margin-left: 30px;"><img title="Bayesian Methods for Hackersg"style="float: right;margin-left: 30px;" src="http://www-fp.pearsonhighered.com/assets/hip/images/bigcovers/0133902838.jpg" align=right height = 200 /></div>
 
 **Bayesian Methods for Hackers is now available as a printed book!** You can pick up a copy on [Amazon](http://www.amazon.com/Bayesian-Methods-Hackers-Probabilistic-Addison-Wesley/dp/0133902838). What are the differences between the online version and the printed version?
 
@@ -163,7 +160,7 @@ Authors submit content or revisions using the GitHub interface.
 
 ### How to contribute
 
-####What to contribute?
+#### What to contribute?
 
 -  The current chapter list is not finalized. If you see something that is missing (MCMC, MAP, Bayesian networks, good prior choices, Potential classes etc.),
 feel free to start there. 
@@ -174,7 +171,7 @@ feel free to start there.
 -  Contributing to the Jupyter notebook styles
 
 
-####Commiting
+#### Commiting
 
 -  All commits are welcome, even if they are minor ;)
 -  If you are unfamiliar with Github, you can email me contributions to the email below.
@@ -225,7 +222,7 @@ community for developing the Notebook interface. All Jupyter notebook files are 
 
 
 
-####Contact
+#### Contact
 Contact the main author, Cam Davidson-Pilon at cam.davidson.pilon@gmail.com or [@cmrndp](https://twitter.com/cmrn_dp)
 
 
